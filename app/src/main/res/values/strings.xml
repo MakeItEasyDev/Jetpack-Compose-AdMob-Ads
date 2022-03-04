@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ComposeAdMobAds</string>
+
+    <string name="ad_id_banner">ca-app-pub-3940256099942544/6300978111</string> <!-- Test Ad -->
+    <string name="ad_id_adaptive_banner">ca-app-pub-3940256099942544~3347511713</string> <!-- Test Ad -->
+    <string name="ad_id_interstitial">ca-app-pub-3940256099942544/1033173712</string>
+</resources>
